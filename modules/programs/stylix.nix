@@ -20,7 +20,7 @@
 	#};
 
   # To generate colors from walpapper
-  stylix.image = /home/b3rrypi/Pictures/Wallpapers/14.png;
+  stylix.image = ./14.png;
 
   # To search for cursor available just do the following commands
   # nix build nixpkgs#bibata-cursors
